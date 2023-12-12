@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fCCCalculator/static/css/main.b84bf57b.css",
+    "main.js": "/fCCCalculator/static/js/main.63a0092a.js",
+    "static/js/787.dda7aba7.chunk.js": "/fCCCalculator/static/js/787.dda7aba7.chunk.js",
+    "static/media/LCDAT&TPhoneTimeDate.woff": "/fCCCalculator/static/media/LCDAT&TPhoneTimeDate.00641eafd611530b8c62.woff",
+    "index.html": "/fCCCalculator/index.html",
+    "main.b84bf57b.css.map": "/fCCCalculator/static/css/main.b84bf57b.css.map",
+    "main.63a0092a.js.map": "/fCCCalculator/static/js/main.63a0092a.js.map",
+    "787.dda7aba7.chunk.js.map": "/fCCCalculator/static/js/787.dda7aba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84bf57b.css",
+    "static/js/main.63a0092a.js"
+  ]
+}
